@@ -40,4 +40,4 @@ The dataset has following features
 * YearsWithCurrManager
 ## Exploratory Data Analysis(EDA):
 Performing EDA provided lot of data insights. Few of them are,
-<img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_target.png' width='400' height = '400'>
+<img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_target.png' width='800' height = '400'>
