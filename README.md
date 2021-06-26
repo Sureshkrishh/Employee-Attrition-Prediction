@@ -49,13 +49,16 @@ Performing EDA provided lot of data insights. Few of them are,
 * These are some example of the insights gained from the cleaned dataset.
 ## Model building 
 Since its a binary classification problem, classification algorithm such as 
+
 *1. Tree based model*
 * Decision tree
 * Random forest
+
 *2. Probabilistic model*
 * Naive bayes classifier
 * Logistic regression
-*3. Distance based models
+
+*3. Distance based models*
 * k-Nearest Neighbor
 * KNN
 #### Linkedin: https://www.linkedin.com/in/suresh-krishna-k/
