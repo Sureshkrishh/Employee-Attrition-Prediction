@@ -38,7 +38,7 @@ The dataset has following features
 * YearsInCurrentRole	
 * YearsSinceLastPromotion	
 * YearsWithCurrManager
-## Exploratory Data Analysis(EDA):
+## EXPLORATORY DATA ANALYSIS(EDA):
 Performing EDA provided lot of data insights. Few of them are,
 <img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_target.png' width='800' height = '400'>
 <img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_quantitative_feature.png' width='800' height='1000'>
@@ -47,7 +47,7 @@ Performing EDA provided lot of data insights. Few of them are,
 <img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_outliers.png' width='800' height='1000'>
 <img src='https://github.com/Sureshkrishh/Employee_Attrition_EDA/blob/main/EDA_images/insight_on_monthlysalary.png' width='800' height='400'>
 * These are some example of the insights gained from the cleaned dataset.
-## Model building 
+## MODEL BUILDING
 Since its a binary classification problem, classification algorithm such as 
 
 *1. Tree based model*
