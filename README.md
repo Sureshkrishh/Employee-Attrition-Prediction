@@ -1,7 +1,7 @@
 # Employee Attrition Prediction
 
 ## DATA SET:
-This dataset is provided by learnbay as part of my capstone project
+This dataset is provided as part of my capstone project
 The dataset has following features
 * Age	
 * Attrition	
